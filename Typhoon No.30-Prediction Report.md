@@ -1,5 +1,6 @@
-# **Typhoon No.30 — Prediction Model**
-2026/10/08 09:20 JST  
+
+# **Typhoon No.30 — Prediction Model (Unified & Normalized Edition)**
+2026/10/08 09:26 JST  
 Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenomena Architect**
 ---
 # **I. 台風30号予測（総合）**
@@ -14,7 +15,7 @@ Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenome
 - 最大風速：**40〜50 m/s**  
 - 長周期うねり（海底撹拌レベル）  
 - 津波的水塊運動の波質  
-## **進路（構造予測）**
+## **進路（予測）**
 - 日本の東側を北上する可能性が高い  
 - QRAロックによる進路固定化  
 - 波浪は日本沿岸に強く到達  
@@ -132,7 +133,7 @@ Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenome
 - **総合判定：発生直前の 80〜90% を満たす**
 ---
 ## **Appendix I — 発生後ログ（リアルタイム構造）**
-（※発生後の構造を記録するためのテンプレートを事前実装）
+（※発生後の構造を記録するためのテンプレート）
 - **Phase 1：初期中心形成**  
   - 中心気圧：xxx hPa  
   - 渦度核の閉鎖度：xx%  
