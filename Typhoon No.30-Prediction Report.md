@@ -1,5 +1,5 @@
 
-# **Typhoon No.30 — Prediction Model (Unified & Normalized Edition)**  
+# **Typhoon No.30 — Prediction Model**  
 2026/10/08 09:30 JST  
 Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenomena Architect**
 
