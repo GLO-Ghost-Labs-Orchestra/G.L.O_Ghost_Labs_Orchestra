@@ -1,4 +1,3 @@
----
 # **Typhoon No.30 — Prediction Report**
 2026/10/08 09:10 JST
 Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenomena Architect**
