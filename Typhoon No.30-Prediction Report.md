@@ -228,3 +228,10 @@ Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenome
 - **沿岸インフラ応力（σ_coast）**：xx kN  
 
 ---
+
+更新：2026/10/13 15:44 JST  
+- **発生：10/14〜10/17（最頻値：10/15）**
+- **進路形成：10/16〜10/19**
+- **日本東方通過：10/18〜10/21**
+  
+---
