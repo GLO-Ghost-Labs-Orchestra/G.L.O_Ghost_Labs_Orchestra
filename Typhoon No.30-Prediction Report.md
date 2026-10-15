@@ -235,3 +235,16 @@ Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenome
 - **日本東方通過：10/18〜10/21**
   
 ---
+
+更新：2026/10/15 20:00 JST  
+Typhoon No.30 CHAMPI
+t0 = 2026-10-15 15:00 JST
+
+正式発生域：マーシャル諸島
+18時中心：11°20′N / 157°55′E
+中心気圧：1000 hPa
+最大風速：18 m/s
+最大瞬間風速：25 m/s
+進行：西北西 20 km/h
+
+---
