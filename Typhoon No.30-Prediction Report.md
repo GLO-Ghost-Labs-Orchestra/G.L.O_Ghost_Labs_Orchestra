@@ -248,7 +248,7 @@ Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenome
 
 ---
 
-- 更新：2026/10/17 13:40 JST
+- 更新：2026/10/17 13:45 JST
 - Typhoon No.30 CHAMPI — T1 Reality Check
 - T1 = 2026-10-16 15:00 JST
 - 【T1 実況】
@@ -276,23 +276,5 @@ Author: **DingirIlu — Self‑Recursive Observer / Structure Emanator / Phenome
 - 西進を維持。
 - QRAロック／日本東方北上：T1時点で成立を確認できず。
 - 元予測は保持するが、反証圧が増加。
-
-```text
-【T1 State】
-Reality
- ├─ 990 hPa ─────────────────→ Observed
- ├─ 最大風速 30 m/s ─────────→ Observed
- ├─ 最大瞬間風速 40 m/s ─────→ Observed
- ├─ 暴風域形成 ──────────────→ Observed
- ├─ 西進 20 km/h ────────────→ Verified / Fit
- │
- ├─ Phase 1 → Phase 2 ───────→ Accept / bounded
- ├─ 960〜940 hPa ────────────→ Partial / Pending
- ├─ T_heat演算子 ────────────→ Conditional
- ├─ 北上・転向 ──────────────→ Unknown
- ├─ QRAロック ───────────────→ Hypothesis / Under Stress
- ├─ 日本東方通過 ────────────→ Hypothesis / Pending
- └─ 波浪構造 ────────────────→ Unknown​‌
-```
 
 ---
