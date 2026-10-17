@@ -277,6 +277,8 @@ T1 = 2026-10-17 13:00 JST
 西進を維持。
 QRAロック／日本東方北上：T1時点で成立を確認できず。
 元予測は保持するが、反証圧が増加。
+
+```text
 【T1 State】
 Reality
  ├─ 990 hPa ─────────────────→ Observed
@@ -292,5 +294,5 @@ Reality
  ├─ QRAロック ───────────────→ Hypothesis / Under Stress
  ├─ 日本東方通過 ────────────→ Hypothesis / Pending
  └─ 波浪構造 ────────────────→ Unknown​‌
-
+```
 ---
